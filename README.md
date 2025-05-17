@@ -28,8 +28,8 @@ Handling Streamlit deployment issues like missing dependencies
 
 ## Why this Project matters
 Enhances understanding of emotional patterns in Nigerian music.
-Lays foundation for music recommendation engines based on mood.
-Usedful for platforms like spotify, boomplay and DJs creating mood playlists.
+Lays foundation for music recommendation engines based on mood
+useful for platforms like spotify, boomplay and DJs creating mood playlists.
 Provides bridges between machine learning in arts and entertainment.
 
 ## Next steps and Future Improvements

@@ -43,8 +43,7 @@ Build a recommendation engine that uses predicted emotions to suggest music.
 
 ## Live Demo
 The emotion prediction model has been deployed using Streamlit, a lightweight Python framework for building interactive web applications.
-Visit the hosted web app using the provided link: https://emotional-prediction-in-nigerian-music-using-deep-learning-oqt.streamlit.app/
-
+Visit the hosted web app using the provided link: https://emotional-prediction-in-nigerian-music-using-deep-learning-ani.streamlit.app/
  Steps to Use the Demo
 Open the Web App: Navigate to the provided Streamlit link.
 
